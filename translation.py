@@ -2,16 +2,16 @@ class Translation(object):
 
     START_TEXT = """Hello,
 
-I am a Telegram Uploader Bot! Developed by Dr.Caduceus and TroJanzHEX
+I AM Fastest MR DLPRO BOT In Telegram |  MY OWNER @MrRabbiHossenShahed
 
-<b>Please send me any Direct download URL link, I can upload to telegram as File/Video</b>
+<b>I Can Download DRM Video's</b>
 
-/help for more details..
+/BUY SUBSCRIPTION FROM @MrRabbiHossenShahed
 
-Support Group : https://t.me/DrTorrent
+Support Group : https://t.me/+btWY8ZEOZGdiOWRl
 """
 
-    HELP_USER = """Hai I'am a URL Uploader bot..
+    HELP_USER = """Hello I'am a URL Uploader bot..
     
 1. Send url (Link | New Name with Extension).
 2. Send Custom Thumbnail (Optional).
